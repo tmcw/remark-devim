@@ -1,0 +1,14 @@
+{
+  "name": "remark-devim",
+  "version": "1.0.0",
+  "description": "remove vim pedantry from Markdown files so I can repost them on GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "unist-util-visit": "1.1.0"
+  }
+}
