@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "unist-util-visit": "1.1.0"
+    "unist-util-visit": "1.1.1"
   }
 }
